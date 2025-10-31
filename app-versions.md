@@ -1,5 +1,19 @@
 # Application Version History
 
+## v1.0.6 - 2025-10-24
+### Cut Plan Tool
+- A new tool in the parts list that helps getting how many parts to purchase, and how to cut them optimally for the lengths of tubes needed
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/v1.0.6.gif">
+
+## v1.0.5 - 2025-10-24
+### Rotation axis helper
+- Pieces that can rotate on multiple axis now display a visual helper to know where the rotation will happen
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/v1.0.5.gif">
+
+## v1.0.4 - 2025-10-20
+### Many bug fixes
+- Fixes for camera autofocus, pieces getting deformed when using offset controls, move controls, centimeters issues, and more
+
 ## v1.0.3 - 2025-07-31
 ### Check Snap Automatically
 - New button for checking for which new connections should be snapped in your selection
