@@ -1,5 +1,48 @@
 # Application Version History
 
+## v1.1.0 - 2026-10-16
+### Meet Crafti AI
+- Crafti AI is a design assistant that docks beside your design. Open it from the Crafti button or with Cmd/Ctrl+Shift+G
+- Describe what you want to build and Crafti creates a new design, or ask it to change the one you have open
+- It can add, move, rotate, resize, group and color parts, and measure your design
+- Crafti shows its progress and may ask you questions along the way. You can stop at any time, and undo a finished edit
+- Your chats are saved with your design, so you can reopen one later or start a new chat
+- Ask "how do I...?" and Crafti points you to the right tutorial
+
+### Show Crafti What You Mean
+- Attach, paste or drop up to four images, such as a photo of something you want to build
+- Send a screenshot of your current view
+- Sketch your idea or draw on a screenshot with arrows, shapes, text and numbered notes
+
+### Parts That Aren't in the Catalog
+- When the catalog doesn't have a part you need, Crafti can make one for you
+- Parts it makes are saved to My Library so you can reuse them in other designs
+- Adjustable parts come with their own controls, and you can restore an earlier version from Version history
+
+### Credits and Your Account
+- Your credit balance is shown in the header. Buy credits there, or turn on automatic top-up
+- Crafti AI and Fancy Renders use the same credits, and Fancy Render shows its cost before you generate
+- The new Account page shows your plan, credits and billing history
+
+### Buy Parts
+- Open Buy Parts from the parts list, enter your ZIP code and pick a store for each part, or skip parts you already have
+- See how many sticks or packs to buy, with room for saw cuts
+- Fill your Home Depot, Lowe's or McMaster cart in one step (when signed in on desktop)
+- Store icons on catalog parts link to their product pages
+
+### Easier Editing
+- Drag parts from the catalog or My Library straight into your design
+- A new orientation cube snaps the camera to any side of your design
+- Design configurator controls now sit alongside the regular editing tools, and you can choose whether a saved copy keeps them
+- Parts that aren't connected can rotate freely, and connected parts offer a "Rotate Freely" option
+- Imported 3D models keep their original colors and materials
+
+### My Designs and Outputs
+- My Designs has a new full-screen view with thumbnails, grid and list layouts, and rename, duplicate and delete
+- Parts lists and PDFs include an overview picture and part thumbnails
+- Saved assembly guides open right away, and you choose when to regenerate one
+- Contact us now lets you attach up to three images
+
 ## v1.0.6 - 2025-10-24
 ### Cut Plan Tool
 - A new tool in the parts list that helps getting how many parts to purchase, and how to cut them optimally for the lengths of tubes needed
